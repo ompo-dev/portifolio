@@ -54,7 +54,7 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href="mailto:2326mpb@gmail.com?subject=Envie sua porposta, em breve lhe enviarei o orçamento"
+                  href="mailto:2326mpb@gmail.com?subject=Envie sua proposta, em breve lhe enviarei o orçamento"
                 >
                   Faça seu orçamento
                 </a>
@@ -91,7 +91,7 @@ export default function Home() {
           <div>
             <h3 className="text-3xl py-1 dark:text-white ">Tipos de Serviços</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-            Criamos seu <span className="text-teal-500">Sites</span>,
+            Criamos seus <span className="text-teal-500">Sites</span>,
             <span className="text-teal-500"> Landing Pages</span>
             , <span className="text-teal-500">E-Commerces</span> e 
             <span className="text-teal-500"> Apps</span>.
