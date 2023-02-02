@@ -150,6 +150,7 @@ export default function Home() {
 
           <div className="lg:flex gap-10">
             <h3 className="text-3xl py-1 dark:text-white ">Outras tecnologias</h3>
+            <br/>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <FaStripeS size={100} />
               <h3 className="text-lg font-medium pt-8 pb-2 ">Sanity</h3>
