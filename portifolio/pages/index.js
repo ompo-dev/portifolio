@@ -137,7 +137,7 @@ export default function Home() {
               <TbBrandReactNative size={100} />
               <h3 className="text-lg font-medium pt-8 pb-2 ">React Native</h3>
               <p className="py-2">
-                Diferentemente do React JS com o React Native é possivel cria aplicativos completos tanto para iOS quanto para Android com o mesmo código.
+                Diferentemente do React JS, com o React Native é possivel cria aplicativos completos tanto para iOS quanto para Android com o mesmo código.
               </p>
               <a className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md"
                 href="mailto:2326mpb@gmail.com?subject=Descreva detalhes do seu App em React Native, em breve lhe enviarei o orçamento">
