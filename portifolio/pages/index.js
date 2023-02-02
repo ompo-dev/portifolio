@@ -180,6 +180,44 @@ export default function Home() {
               </a>
             </div>
           </div>
+
+
+          <div className="lg:flex gap-10">
+            <h3 className="text-3xl py-1 dark:text-white ">Outras tecnologias</h3>
+            <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
+              <FaStripeS size={100} />
+              <h3 className="text-lg font-medium pt-8 pb-2 ">Sanity</h3>
+              <p className="py-2">
+              Sanity é uma plataforma de gerenciamento de conteúdo headless para a criação e gerenciamento de dados estruturados para aplicativos web.
+              </p>
+              <a className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md"
+                href="https://www.sanity.io">
+                Conheça o Sanity
+              </a>
+            </div>
+            <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
+              <FaStripe size={100} />
+              <h3 className="text-lg font-medium pt-8 pb-2 ">Stripe</h3>
+              <p className="py-2">
+              Stripe é uma plataforma de pagamento on-line que permite aos desenvolvedores aceitar pagamentos e gerenciar transações financeiras de maneira simples e segura.
+              </p>
+              <a className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md"
+                href="https://stripe.com/br">
+                Conheça o Stripe
+              </a>
+            </div>
+            <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
+              <TbBrandTailwind size={100} />
+              <h3 className="text-lg font-medium pt-8 pb-2 ">Tailwind</h3>
+              <p className="py-2">
+              Tailwind é uma biblioteca de classes CSS para criar interfaces de usuário rápidas e responsivas com um conjunto de utilitários pré-definidos.
+              </p>
+              <a className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md"
+                href="https://tailwindcss.com">
+                Conheça o Tailwind
+              </a>
+            </div>
+          </div>
         </section>
       </main>
     </div>
