@@ -144,7 +144,7 @@ export default function Home() {
                 Quero em React Native!
               </a>
             </div>
-            
+            <br/>
             <h3 className="text-3xl py-1 dark:text-white ">Outras tecnologias</h3>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <FaStripeS size={100} />
