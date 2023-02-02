@@ -110,7 +110,7 @@ export default function Home() {
                 React JS
               </h3>
               <p className="py-2">
-              O Reactjs é uma ferramenta de desenvolvimento para criar 
+              O React JS é uma ferramenta de desenvolvimento para criar 
               Landing Pages e sites mais simples de forma rápida e eficaz.<br></br>
               </p>
               <a className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md"
