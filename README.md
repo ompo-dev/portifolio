@@ -1,11 +1,11 @@
 <div align="center">
-  <img width="10%" height="10%" src="public/images/capi.ico" />
+  <img width="10%" height="10%" src="portifolio/public/vercel.svg" />
 
-  <h2 align="center">Portfolio 2.0</h2>
+  <h2 align="center">Portfolio 1.0</h2>
 
-  Agora com Portfolio Atualizado, muito mais elgante e sofisticado.
+  Portfolio 1.0 site para demonstrar meus conhecimentos.
 
-  <a href="https://ompo.netlify.app"><strong>➥ Site Demo</strong></a>
+  <a href="https://ompo.vercel.app"><strong>➥ Site Demo</strong></a>
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Desktop Demo](public/images/project_4.png)
+![Desktop Demo](project_1.png)
 
 ### Projeto
 
